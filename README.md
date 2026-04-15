@@ -25,3 +25,29 @@ PLANILHA 2
 <img width="1600" height="542" alt="image" src="https://github.com/user-attachments/assets/e880c604-6de3-4ce9-9fbb-3e011770a512" />
 SECRETARIA
 <img width="934" height="419" alt="image" src="https://github.com/user-attachments/assets/bf95ccde-5a29-4234-a91f-3773d10ecb84" />
+
+# Atividade de Informática - Excel
+Planilha de cadastro de fornecedores 
+ (Link: [fornecedores.xlsx](https://github.com/user-attachments/files/26766175/fornecedores.xlsx)
+
+
+ FORNECEDORES
+<img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/54b57a31-55e4-4ec5-81fe-0439982dccd2" />
+PLANILHA 2
+<img width="1318" height="482" alt="image" src="https://github.com/user-attachments/assets/953e9884-f0ad-4970-8f15-5996baa52e41" />
+
+# Atividade de Informática - Excel
+
+Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo
+(Link: [multas_pagas.xlsx](https://github.com/user-attachments/files/26766221/multas_pagas.xlsx)
+
+
+MULTAS_PAGAS
+<img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/e5082fa1-aa26-4df3-92c0-5ee91a496b97" />
+PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
+<img width="530" height="139" alt="image" src="https://github.com/user-attachments/assets/2d81f482-0868-4f1e-8202-cb8388d962bb" />
+PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
+<img width="546" height="301" alt="image" src="https://github.com/user-attachments/assets/a044a50e-6479-4978-8403-df34842d2912" />
+
+# Atividade de Informática- Excel
+Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
