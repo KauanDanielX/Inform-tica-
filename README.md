@@ -9,6 +9,7 @@ https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit
 # Informatica-excel
 Atividade com foco em introdução no programa Excel
  realizadas na disciplina de informática do CSP em logística 
+ Balancete de receitas de fevereiro com representação gráfica
 ## Atividade realizada com excel
  <img width="851" height="370" alt="image" src="https://github.com/user-attachments/assets/b6b5d266-41f8-4905-9c5c-91b37e61d537" />
  
