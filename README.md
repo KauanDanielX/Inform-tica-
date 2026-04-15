@@ -51,4 +51,18 @@ PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
 <img width="546" height="301" alt="image" src="https://github.com/user-attachments/assets/a044a50e-6479-4978-8403-df34842d2912" />
 
 # Atividade de Informática- Excel
-Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
+[atividade final.xlsx](https://github.com/user-attachments/files/26766445/atividade.final.xlsx)
+ PLANILHA
+ <img width="1600" height="635" alt="image" src="https://github.com/user-attachments/assets/65941324-2f73-4d08-bbcc-74ade954e4a1" />
+QUESTÃO 1
+<img width="926" height="327" alt="image" src="https://github.com/user-attachments/assets/6498ea8c-1422-4ac6-bddd-b7169b6c28c1" />
+QUESTÃO 2
+<img width="888" height="325" alt="image" src="https://github.com/user-attachments/assets/f8eb81ee-47b1-48c5-86ac-3d5d2d34f9ed" />
+QUESTÃO 3
+<img width="942" height="710" alt="image" src="https://github.com/user-attachments/assets/dae6fd44-c881-4715-a263-f357b4e949ca" />
+QUESTÃO 4
+<img width="959" height="348" alt="image" src="https://github.com/user-attachments/assets/8a53ddc4-6ae5-4982-a50f-9cedb7981cda" />
+QUESTÃO 5
+<img width="907" height="347" alt="image" src="https://github.com/user-attachments/assets/c305ff0f-712a-4aac-8559-62aa486dca32" />
+
+
