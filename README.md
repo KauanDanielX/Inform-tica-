@@ -45,21 +45,29 @@ Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de S
 
 MULTAS_PAGAS
 <img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/e5082fa1-aa26-4df3-92c0-5ee91a496b97" />
+
 PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
+
 <img width="530" height="139" alt="image" src="https://github.com/user-attachments/assets/2d81f482-0868-4f1e-8202-cb8388d962bb" />
+
 PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
+
 <img width="546" height="301" alt="image" src="https://github.com/user-attachments/assets/a044a50e-6479-4978-8403-df34842d2912" />
 
 # Atividade de Informática- Excel
 [atividade final.xlsx](https://github.com/user-attachments/files/26766445/atividade.final.xlsx)
  PLANILHA
+ 
  <img width="1600" height="635" alt="image" src="https://github.com/user-attachments/assets/65941324-2f73-4d08-bbcc-74ade954e4a1" />
+ 
 QUESTÃO 1
 
 <img width="400" height="317" alt="image" src="https://github.com/user-attachments/assets/b979c18f-f2fb-47fe-a5c1-558bfff1eb08" />
+
 QUESTÃO 2
 
 <img width="303" height="263" alt="image" src="https://github.com/user-attachments/assets/a6beb9ea-de4c-4de7-9419-68deb4e1cef0" />
+
 QUESTÃO 3
 
 <img width="420" height="743" alt="image" src="https://github.com/user-attachments/assets/fc23100b-e4ae-43c6-8a7f-59d0a3daf893" />
