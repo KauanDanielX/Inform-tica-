@@ -68,7 +68,7 @@ QUESTÃO 5
 # Inform-tica-
 ## Certificado de conclusão de curso EAD
 Link:[Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf](https://github.com/user-attachments/files/26805363/Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf)
-<img width="787" height="676" alt="image" src="https://github.com/user-attachments/assets/d0c5ee90-a584-4521-b02e-59f5dfa89121" />
+<img width="770" height="223" alt="image" src="https://github.com/user-attachments/assets/6e806e57-6480-4f38-95bc-abbdf756ae49" />
 
 
 
