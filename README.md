@@ -65,4 +65,10 @@ QUESTÃO 4
 QUESTÃO 5
 <img width="907" height="347" alt="image" src="https://github.com/user-attachments/assets/c305ff0f-712a-4aac-8559-62aa486dca32" />
 
+# Inform-tica-
+## Certificado de conclusão de curso EAD
+Link:[Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf](https://github.com/user-attachments/files/26805363/Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf)
+<img width="787" height="676" alt="image" src="https://github.com/user-attachments/assets/d0c5ee90-a584-4521-b02e-59f5dfa89121" />
+
+
 
