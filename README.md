@@ -106,8 +106,12 @@ Tratamento de formulas Dax
 Link: https://colab.research.google.com/drive/1AM94S1I1tq5urT_gHkWEYhcG7R-sGWO8?usp=sharing]
 <img width="1151" height="772" alt="image" src="https://github.com/user-attachments/assets/0c2713c9-3f17-40e8-9dfe-bb06e5dbbb51" />
 
-# Atividade de Informática - Google colab
+# Atividade de Informática - Excel/Google colab
+DOC: [Red.Wine.Quality.xlsx](https://github.com/user-attachments/files/28408564/Red.Wine.Quality.xlsx)
+
 Link: https://colab.research.google.com/drive/17ZoGjt4pTL7739I5RbEB87Pg54ekK5HY?usp=sharing
+<img width="1513" height="679" alt="image" src="https://github.com/user-attachments/assets/a6561c8f-24e4-4172-a2dc-62ef01e7b07b" />
+
 <img width="732" height="1072" alt="image" src="https://github.com/user-attachments/assets/d086ab45-5fac-4d39-814e-31ee3f7f8667" />
 
 
