@@ -85,5 +85,21 @@ QUESTÃO 5
 Link:[Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf](https://github.com/user-attachments/files/26805363/Conferencia_dos_Dados-Conferencia_dos_dados_4022846.pdf)
 <img width="770" height="223" alt="image" src="https://github.com/user-attachments/assets/6e806e57-6480-4f38-95bc-abbdf756ae49" />
 
+# Atividade de Informática - Power BI
+Atividade de informática no PowerBI - sinistros 2026
+[sinistrosPBI.pbix.zip](https://github.com/user-attachments/files/28407942/sinistrosPBI.pbix.zip)
+
+<img width="1441" height="813" alt="image" src="https://github.com/user-attachments/assets/b7d7e32b-82ee-42da-8fbc-7b13ff934bc3" />
+
+# Atividade de Informática - Power BI
+
+[conjddadosPBI.pbix.zip](https://github.com/user-attachments/files/28407833/conjddadosPBI.pbix.zip)
+<img width="1600" height="661" alt="image" src="https://github.com/user-attachments/assets/299b2004-d983-4f7b-9f93-88d2278ab461" />
+
+
+# Atividade de Informática - Power BI
+Tratamento de formulas Dax
+[formuladaxPBI.pbix.zip](https://github.com/user-attachments/files/28407606/formuladaxPBI.pbix.zip)
+<img width="1600" height="710" alt="image" src="https://github.com/user-attachments/assets/8e5d7ee1-738d-4f80-9bbe-485d1619322b" />
 
 
