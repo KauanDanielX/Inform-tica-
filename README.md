@@ -103,9 +103,11 @@ Tratamento de formulas Dax
 <img width="1600" height="710" alt="image" src="https://github.com/user-attachments/assets/8e5d7ee1-738d-4f80-9bbe-485d1619322b" />
 
 # Atividade de Informática - Google colab
+Link: https://colab.research.google.com/drive/1AM94S1I1tq5urT_gHkWEYhcG7R-sGWO8?usp=sharing]
+<img width="1151" height="772" alt="image" src="https://github.com/user-attachments/assets/0c2713c9-3f17-40e8-9dfe-bb06e5dbbb51" />
+
+# Atividade de Informática - Google colab
 Link: https://colab.research.google.com/drive/17ZoGjt4pTL7739I5RbEB87Pg54ekK5HY?usp=sharing
 <img width="732" height="1072" alt="image" src="https://github.com/user-attachments/assets/d086ab45-5fac-4d39-814e-31ee3f7f8667" />
 
-# Atividade de Informática - Google colab
-Link: https://colab.research.google.com/drive/1AM94S1I1tq5urT_gHkWEYhcG7R-sGWO8?usp=sharing]
-<img width="1151" height="772" alt="image" src="https://github.com/user-attachments/assets/0c2713c9-3f17-40e8-9dfe-bb06e5dbbb51" />
+
